@@ -1,0 +1,29 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+43.153.80.208,443,443,true,SJC,North America,San Jose,7,11.43
+38.49.38.178,443,443,true,LAX,North America,Los Angeles,8,5.12
+13.201.221.231,443,443,true,BOM,Asia Pacific,Mumbai,4,3.91
+20.109.23.42,443,443,true,IAD,North America,Ashburn,6,3.41
+8.219.235.20,443,443,true,SIN,Asia Pacific,Singapore,2,3.09
+59.3.3.161,443,443,true,ICN,Asia Pacific,Seoul,2,2.87
+43.153.119.207,443,443,true,SJC,North America,San Jose,4,2.84
+154.17.25.65,443,443,true,LAX,North America,Los Angeles,6,2.63
+35.154.110.69,443,443,true,BOM,Asia Pacific,Mumbai,8,2.51
+154.64.226.138,443,443,true,NRT,Asia Pacific,Tokyo,11,2.49
+43.204.80.35,443,443,true,BOM,Asia Pacific,Mumbai,5,2.48
+58.176.95.46,443,443,true,HKG,Asia Pacific,Hong Kong,7,2.13
+54.193.81.187,443,443,true,SJC,North America,San Jose,1,1.73
+35.247.124.181,443,443,true,SEA,North America,Seattle,4,1.61
+75.2.32.4,443,443,true,IAD,North America,Ashburn,8,1.54
+54.193.48.13,443,443,true,SJC,North America,San Jose,3,1.49
+154.29.147.199,443,443,true,LAX,North America,Los Angeles,5,1.38
+38.60.91.95,443,443,true,LAX,North America,Los Angeles,4,1.20
+98.70.26.236,443,443,true,BOM,Asia Pacific,Mumbai,11,0.87
+72.13.122.137,443,443,true,LAX,North America,Los Angeles,5,0.80
+34.217.119.17,443,443,true,PDX,North America,Portland,6,0.66
+204.110.220.254,443,443,true,PDX,North America,Portland,8,0.42
+52.221.193.22,443,443,true,SIN,Asia Pacific,Singapore,2,0.41
+219.76.13.167,443,443,true,HKG,Asia Pacific,Hong Kong,9,0.34
+8.223.39.101,443,443,true,HKG,Asia Pacific,Hong Kong,13,0.16
+99.83.209.185,443,443,true,IAD,North America,Ashburn,4,0.12
+44.230.218.23,443,443,true,PDX,North America,Portland,2,0.08
+44.227.22.10,443,443,true,PDX,North America,Portland,7,0.07
